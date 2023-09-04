@@ -56,19 +56,19 @@
 //АБО
 
 
-Console.Write("Введіть перше число: ");
-double num1 = Convert.ToDouble(Console.ReadLine());
+//Console.Write("Введіть перше число: ");
+//double num1 = Convert.ToDouble(Console.ReadLine());
 
-Console.Write("Введіть друге число: ");
-double num2 = Convert.ToDouble(Console.ReadLine());
+//Console.Write("Введіть друге число: ");
+//double num2 = Convert.ToDouble(Console.ReadLine());
 
-// Обчислення середнього арифметичного
-double arithmeticmean = (num1 + num2) / 2;
+//// Обчислення середнього арифметичного
+//double arithmeticmean = (num1 + num2) / 2;
 
-Console.WriteLine(arithmeticmean);
+//Console.WriteLine(arithmeticmean);
 
-// Очікування натискання клавіші перед завершенням програми
-Console.ReadKey();
+//// Очікування натискання клавіші перед завершенням програми
+//Console.ReadKey();
 
 //Дослідити інші способи поміняти місцями значення двох змінних без використання тимчасової змінної. 
 
