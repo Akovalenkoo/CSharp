@@ -11,18 +11,15 @@
         if (number == number2)
         {
             Console.WriteLine($"{number} = {number2}");
-            Console.ReadKey();
         }
         else if (number > number2)
         {
             Console.WriteLine($"{number} > {number2}");
-            Console.ReadKey();
         }
         else
         {
             Console.WriteLine($"{number} < {number2}");
-            Console.ReadKey();
         }
-
+        Console.ReadKey();
     }
 }
