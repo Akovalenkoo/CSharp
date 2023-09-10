@@ -1,25 +1,25 @@
-﻿class Program
-{
-    static void Main()
-    {
-        Console.Write("Введіть перше число: ");
-        int number = int.Parse(Console.ReadLine());
+﻿//class program
+//{
+//    static void main()
+//    {
+//        console.write("введіть перше число: ");
+//        int number = int.parse(console.readline());
 
-        Console.Write("Введіть друге число: ");
-        int number2 = int.Parse(Console.ReadLine());
+//        console.write("введіть друге число: ");
+//        int number2 = int.parse(console.readline());
 
-        if (number == number2)
-        {
-            Console.WriteLine($"{number} = {number2}");
-        }
-        else if (number > number2)
-        {
-            Console.WriteLine($"{number} > {number2}");
-        }
-        else
-        {
-            Console.WriteLine($"{number} < {number2}");
-        }
-        Console.ReadKey();
-    }
-}
+//        if (number == number2)
+//        {
+//            console.writeline($"{number} = {number2}");
+//        }
+//        else if (number > number2)
+//        {
+//            console.writeline($"{number} > {number2}");
+//        }
+//        else
+//        {
+//            console.writeline($"{number} < {number2}");
+//        }
+//        console.readkey();
+//    }
+//}
