@@ -17,9 +17,8 @@
 //            guess = int.Parse(Console.ReadLine());
 //            attempts++;
 
-//            string hint = guess < secretNumber ? "вище" : guess > secretNumber ? "нижчий" : "правильно";
-
-//            Console.WriteLine(hint);
+//            string hint = guess < secretNumber
+//            Console.Write ? "вище" : guess > secretNumber ? "нижчий" : "правильно";Line(hint);
 //        } while (guess != secretNumber);
 
 //        Console.WriteLine($"Вітаю! Ви вгадали число {secretNumber} з {attempts} спроб.");
